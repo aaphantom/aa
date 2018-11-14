@@ -1,0 +1,2 @@
+q905:list.insert(-1,X)
+        if list has only one element, X may be inserted into the first location of the list.
